@@ -7,7 +7,8 @@
 * HTML
 * CSS
   - Адаптивный дизайн
-  - grid/flexbox
+  - Grid/Flexbox
+  - БЭМ (Nested)
 
 ## Планы по улучшению
 
@@ -22,4 +23,4 @@
 
 **Готовый проект**
 
-* [Ссылка на страницу]()
+* [Ссылка на страницу](https://dmitriy-edifanov.github.io/russian-travel/index.html)
