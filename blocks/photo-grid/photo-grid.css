@@ -1,12 +1,11 @@
 .photo-grid {
     list-style: none;
-    margin: 0;
+    margin: 0 auto 92px;
     padding: 0;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 16px;
     max-width: calc(100% - 48*2px);
-    margin: 0 auto 92px;
 }
 
 @media screen and (max-width: 1024px) {
